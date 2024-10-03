@@ -13,3 +13,5 @@ Información de Sinónimos proviene del proyecto OpenThesaurus - Spanish Thesaur
 - Cierra y vuelve a abrir Dictionary.app.
 - Diccionario > Preferencias.
 - Spanish OpenThesaurus debería estar al final de tu lista de fuentes.
+
+![Captura de Pantalla](https://github.com/camilomazo/SpanishOpenThesaurusMacOS/raw/main/Screenshot.png)
